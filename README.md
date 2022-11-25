@@ -1,21 +1,19 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
 
-{Provide a description the software that you wrote to demonstrate the Rust language.}
+This programs demonstrates the basics of Rust the programming languguage. Rust is mainly used for low level programming but is becoming more popular in todays world. I decided to learn the basics to help understand rust. 
+<br>
+This software is to show how who to use functions and basics varible declartion for rust. 
 
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I used vs code to wirte the code for this program. I used the temnial to compile the code,
+<br>
 
-{Describe the programming language that you used and any libraries.}
-
+This program just uses standard Rust and nothing else 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
@@ -25,6 +23,6 @@
 # Future Work
 
 {Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Add data structures 
+* Add more code 
+* Add more comments
