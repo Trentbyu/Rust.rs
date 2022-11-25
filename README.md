@@ -6,7 +6,7 @@ This programs demonstrates the basics of Rust the programming languguage. Rust i
 This software is to show how who to use functions and basics varible declartion for rust. 
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/9B3uLXx1Xus)
 
 # Development Environment
 
@@ -17,8 +17,8 @@ This program just uses standard Rust and nothing else
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Web Site Name](https://www.rust-lang.org/learn)
+* [Web Site Name](https://www.tutorialspoint.com/rust/index.htm)
 
 # Future Work
 
