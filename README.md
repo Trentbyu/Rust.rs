@@ -17,8 +17,8 @@ This program just uses standard Rust and nothing else
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](https://www.rust-lang.org/learn)
-* [Web Site Name](https://www.tutorialspoint.com/rust/index.htm)
+* [RUST](https://www.rust-lang.org/learn)
+* [Tutorialspoint](https://www.tutorialspoint.com/rust/index.htm)
 
 # Future Work
 
